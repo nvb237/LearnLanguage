@@ -1,0 +1,50 @@
+[
+  {
+    "languageName": "English",
+    "languageCode": "en",
+    "languageImage": "ic_english_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "Chinese/Mandarin",
+    "languageCode": "zh",
+    "languageImage": "ic_chinese_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "Hindi",
+    "languageCode": "hi",
+    "languageImage": "ic_hindi_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "French",
+    "languageCode": "fr",
+    "languageImage": "ic_french_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "Spanish",
+    "languageCode": "es",
+    "languageImage": "ic_spanish_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "German",
+    "languageCode": "de",
+    "languageImage": "ic_german_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "Vietnamese",
+    "languageCode": "vi",
+    "languageImage": "ic_vietnamese_flag",
+    "isLanguageSelected": false
+  },
+  {
+    "languageName": "Arabic",
+    "languageCode": "ar",
+    "languageImage": "ic_arabic_flag",
+    "isLanguageSelected": false
+  }
+]
